@@ -179,7 +179,7 @@ We are a student-run organization that develops innovative programming with the 
       <div>
         <time>23rd January 2019<br>
        Chaze Launched</time>
-        The very first stratup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
+        The very first startup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
       </div>
     </li>
     <!--<li>
