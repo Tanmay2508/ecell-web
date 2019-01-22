@@ -98,7 +98,7 @@ We are a student-run organization that develops innovative programming with the 
                 </div>
               </div>
               <div class="about-me pt-4 pt-md-0">
-                  <div class="title-box-2">
+                  <div class="title-box-2" style="margin-top: 8px;">
                     <h5 class="title-left">
                       Vision
                     </h5>
@@ -179,7 +179,7 @@ We are a student-run organization that develops innovative programming with the 
       <div>
         <time>23rd January 2019<br>
        Chaze Launched</time>
-        The very first startup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
+        The very first stratup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
       </div>
     </li>
     <!--<li>
@@ -291,7 +291,7 @@ window.addEventListener("scroll", addClassVisible);
                     </div>
                 </div>
                 <div class="team-info">
-                    <h3 class="title">Shubham&nbspVishwarkarma</h3>
+                    <h3 class="title">Shubham Vishwarkarma</h3>
                     <span class="post">Head of Tech.</span>
                     
                 </div>
