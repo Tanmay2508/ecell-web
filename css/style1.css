@@ -45,7 +45,7 @@ a:hover {
 .service-box,
 .work-box,
 .card-blog {
-  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 13px 8px -10px #888888;
 }
 
 .box-shadow-a,
@@ -670,6 +670,16 @@ a:hover {
 .intro-single .breadcrumb a {
   color: #fff;
 }
+.logotop{
+  width: 40%; 
+  height: auto;
+}
+@media screen and (max-width: 500px) {
+  .logotop{
+  width: 30%; 
+  height: auto;
+}
+}
 
 /*======================================
 //--//-->   ABOUT
@@ -703,6 +713,20 @@ a:hover {
   height: .7rem;
   background-color: #1b1919;
 }
+
+@media screen and (max-width: 500px) {
+  .lead {
+  font-size: .8rem;
+  font-weight: 200;
+}
+.about-mf .box-shadow-full {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+}
+
+
+
 
 /*======================================
 //--//-->   SERVICES
