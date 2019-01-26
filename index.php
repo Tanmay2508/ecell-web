@@ -23,15 +23,17 @@
 <body id="page-top">
 
   <!--/ Nav Star /-->
-  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav" style="padding-top: 0px;padding-bottom: 0px;">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">Entrepreneurship Cell<br>IIT(ISM) Dhanbad</a>
+      <a class="navbar-brand js-scroll" href="#page-top" style=" padding-top: 7px;"><img src="img/logo3.png" class="logotop"><p style="margin-bottom: 0px;">E-Cell</p></a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
         <span></span>
       </button>
+  </div>
+  <div class="container">
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -91,7 +93,7 @@
                     </h5>
                   </div>
                   <p class="lead" style="text-align: center;">We know Entrepreneurship, in fact we do it! 
-We are a student-run organization that develops innovative programming with the aim of expanding the knowledge of today's entrepreneurial ecosystem We think, ideate, experiment, explore, debate, modify and it goes on and on! We are young minds of a diverse nation with an entrepreneurial mindset having a burning desire to solve problems and make life easier in an entrepreneurial way. We are the growing centre of gravity for the Start-Up enthusiasts in and outside Indian Institute of Technology (Indian School of Mines) Dhanbad located in the mineral rich belt of the north-eastern region of the Indian Subcontinent.
+We are a student-run organization that develops innovative programming with the aim of expanding the knowledge of today's entrepreneurial ecosystem We think, ideate, experiment, explore, debate, modify and it goes on and on! We are young minds of a diverse nation with an entrepreneurial mindset having a burning desire to solve problems and make life easier in an entrepreneurial way. 
 
                   </p>
                   
@@ -116,51 +118,7 @@ We are a student-run organization that develops innovative programming with the 
     </div>
   </section>
 
-  <!--/ Section Services Star /-->
   
-
-      <!--<div class="row">
-        <div class="col-md-4">
-          <div class="service-box">
-            <div class="service-ico">
-             <center><img src="img/6.gif" style="border-radius: 50%;"></center>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">BIZATHON</h2>
-              <p class="s-description text-center">
-                Bizathon is an flagship event if Techno-Managerial Fiesta of IIT(ISM) Dhanbad with the intention to lighten up the spirit of entrepreneurship. The whole event works on the principle of  LEARN || LAUNCH || NETWORK. Starting from workshops, where one learns the diffrent aspects of entreprenurship. In next stage Person has to make his product and launch it, whole process to be done in 24 hours, and finally come and network with the participants, mentors and exchange your ideas.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="service-box">
-            <div class="service-ico">
-             <center><img src="img/4.png" style="border-radius: 50%;"></center>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">E-Summit</h2>
-              <p class="s-description text-center">
-                E-Summit is an annual flagship event of IIT(ISM) Dhanbad effectuated with the intention to foster entrepreneurial initiatives and activities in the campus to accomplish IIT Dhanbad's mandate of nurturing India's future technopreneurs. Sharing of entrepreneurship endeavour and experiences, discussion of ideas and opportunities will be a profuse learning experience for the active leaders of entrepreneurship in the savant community who can then disperse these ideas further.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="service-box">
-            <div class="service-ico">
-              <center><img src="img/images.png" style="border-radius: 50%;"></center>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">TEDx</h2>
-              <p class="s-description text-center">
-                TEDx IIT(ISM) Dhanbad is a full-day event organized under the aegis of the widely popular TED (Technology, Entertainment and Design) Conferences. Our goal is to bring together luminaries to deliver idea-focused talks on a wide range of subjects, to foster learning and inspiration, and provoke conversations that matter among the bright young minds in the audience. They main aim of TED is to share the Ideas worth spreading. At last isn't this all that matters?
-              </p>
-            </div>
-          </div>
-        </div>-->
-
-
        
       
 
@@ -179,15 +137,9 @@ We are a student-run organization that develops innovative programming with the 
       <div>
         <time>23rd January 2019<br>
        Chaze Launched</time>
-        The very first stratup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
+        The very first startup from the member of E-Cell IIT(ISM) Dhanbad is launched with the mission to accelerate the establishment of local businesses online.
       </div>
     </li>
-    <!--<li>
-      <div>
-        <time>21st January 2019<br>Website Launched</time>
-        The communication gap realized due to its only presence on social media; the seed of online presence of E-Cell IIT(ISM) Dhanbad was sowed with pride and the website goes online!
-      </div>
-    </li>-->
   </ul>
 </section>
 <script>
