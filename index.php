@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <title>E-Cell IIT(ISM) Dhanbad</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="E-cell IIT (ISM) Dhanbad" name="keywords">
+  <meta content="E-cell IIT (ISM) Dhanbad" name="description">
   <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
   <link href="img/logo1.jpg" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -25,7 +25,7 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav" style="padding-top: 0px;padding-bottom: 0px;">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top" style=" padding-top: 7px;"><img src="img/logo3.png" class="logotop"><p style="margin-bottom: 0px;">E-Cell</p></a>
+      <a class="navbar-brand js-scroll" href="#page-top" style=" padding-top: 7px;"><img src="img/logo3.png" alt="Ecell IIT (ISM) Dhanbad" class="logotop"><p style="margin-bottom: 0px;">E-Cell</p></a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -43,7 +43,7 @@
             <a class="nav-link js-scroll" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="#service">Timeline</a>
+            <a class="nav-link js-scroll" href="#timeline">Timeline</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#team">Team</a>
@@ -67,11 +67,9 @@
     <div class="intro-content display-table">
       <div class="table-cell">
         <div class="container">
-          <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">Entrepreneurship Cell<br>IIT(ISM) Dhanbad</h1>
           
           <p class="intro-subtitle">Every <span class="text-slider-items">experiment, question, failure, idea</span><strong class="text-slider"></strong> has the power to change our world.</p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
     </div>
@@ -92,20 +90,15 @@
                       About Us
                     </h5>
                   </div>
-                  <p class="lead" style="text-align: center;">We know Entrepreneurship, in fact we do it! 
-We are a student-run organization that develops innovative programming with the aim of expanding the knowledge of today's entrepreneurial ecosystem We think, ideate, experiment, explore, debate, modify and it goes on and on! We are young minds of a diverse nation with an entrepreneurial mindset having a burning desire to solve problems and make life easier in an entrepreneurial way. 
-
-                  </p>
-                  
+                  <p class="lead" style="text-align: center;">We know Entrepreneurship, in fact we do it!<br>We are a student-run organization that develops innovative programming with the aim of expanding the knowledge of today's entrepreneurial ecosystem We think, ideate, experiment, explore, debate, modify and it goes on and on! We are young minds of a diverse nation with an entrepreneurial mindset having a burning desire to solve problems and make life easier in an entrepreneurial way. </p>                  
                 </div>
               </div>
-              <div class="about-me pt-4 pt-md-0">
+              <div class="about-me pt-4 pt-md-0" style="padding-top: 10px!important;">
                   <div class="title-box-2" style="margin-top: 8px;">
                     <h5 class="title-left">
                       Vision
                     </h5>
-                  </div>
-            
+                  </div>            
                   <p class="lead" style="text-align: center;">
                    We, as a group of young enthusiastic community of students, have decided to take out time and light up the path to the ones who are walking on the road, waiting for some right guidance. We motivate people to think out of the box, think innovative with a view to make the world a better place. We help students to develop professional skills in various fields of business and provide them with a platform to implement those skills to solve real-life problems.
                   </p>
@@ -120,9 +113,9 @@ We are a student-run organization that develops innovative programming with the 
 
   
        
-      
+ <!--Timeline-->
 
-<section class="timeline bg-image sect-mt4 route" id="service" style="background-image: url(img/oval.jpg)">
+<section class="timeline bg-image sect-mt4 route" id="timeline" style="background-image: url(img/oval.jpg)">
 
   <ul>
    
@@ -165,9 +158,10 @@ function addClassVisible() {
 window.addEventListener("load", addClassVisible);
 window.addEventListener("scroll", addClassVisible);
 </script>
-  <!--/ Section Services End /-->
 
-  <!--/ Section Portfolio Star /-->
+  <!--/ Timeline End /-->
+
+  <!--/ Team /-->
   <section id="team" class="portfolio-mf sect-pt4 route">
     <div class="container">
       <div class="row">
@@ -184,14 +178,36 @@ window.addEventListener("scroll", addClassVisible);
         </div>
       </div>
      
-
+<!--<div class="container">
+    <div class="row justify-content-center">
+    <div class=" col-md-4 col-sm-6">
+            <div class="our-team">
+                <div class="team">
+                    <div class="pic">
+                        <img src="img/11.jpg" alt="Faculty Advisor Ecell IIT (ISM) Dhanbad">
+                        <ul class="social-links">
+                      <li><a href="https://www.linkedin.com/in/dhiraj-patel-4322a213a/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
+                      <li><a href="https://www.facebook.com/dhiraj.patel.5623293" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                      <li><a href="https://www.instagram.com/nirvana_attainer/" target="_blank"><i class="ion-social-instagram"></i></a></li>                             
+                    </ul>
+                    </div>
+                </div>
+                <div class="team-info">
+                    <h3 class="title">Sowmya Singh</h3>
+                    <span class="post">Faculty Advisor</span>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>-->
    <div class="container">
     <div class="row justify-content-center">
     <div class=" col-md-4 col-sm-6">
             <div class="our-team">
                 <div class="team">
                     <div class="pic">
-                        <img src="img/11.jpg">
+                        <img src="img/11.jpg" alt="President Ecell IIT (ISM) Dhanbad">
                         <ul class="social-links">
                       <li><a href="https://www.linkedin.com/in/dhiraj-patel-4322a213a/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
                       <li><a href="https://www.facebook.com/dhiraj.patel.5623293" target="_blank"><i class="ion-social-facebook"></i></a></li>
@@ -211,11 +227,11 @@ window.addEventListener("scroll", addClassVisible);
             <div class="our-team">
                 <div class="team">
                     <div class="pic">
-                        <img src="img/7.jpg">
+                        <img src="img/7.jpg" alt="Coordinator Ecell IIT (ISM) Dhanbad">
                          <ul class="social-links">
                      <li><a href="https://www.linkedin.com/in/satviksinghal/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
                       <li><a href="https://www.facebook.com/satvik.singhal" target="_blank"><i class="ion-social-facebook"></i></a></li>
-                      <li><a href="#team" target="_blank"><i class="ion-social-instagram"></i></a></li>                               
+                      <li><a href="https://www.instagram.com/satvik31ss/?utm_source=ig_profile_share&igshid=qlfveke88g4t" target="_blank"><i class="ion-social-instagram"></i></a></li>                               
                     </ul>
                     </div>
                 </div>
@@ -234,7 +250,7 @@ window.addEventListener("scroll", addClassVisible);
             <div class="our-team">
                 <div class="team">
                     <div class="pic">
-                        <img src="img/10.jpg">
+                        <img src="img/10.jpg" alt="Tech. Head Ecell IIT (ISM) Dhanbad">
                           <ul class="social-links">
                       <li><a href="https://www.linkedin.com/in/shubham-vishwakarma/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
                       <li><a href="https://www.facebook.com/smartyboy3050" target="_blank"><i class="ion-social-facebook"></i></a></li>
@@ -254,7 +270,7 @@ window.addEventListener("scroll", addClassVisible);
             <div class="our-team">
                 <div class="team">
                     <div class="pic">
-                        <img src="img/8.jpg">
+                        <img src="img/8.jpg" alt="Finance head Ecell IIT (ISM) Dhanbad">
                          <ul class="social-links">
                       <li><a href="https://www.linkedin.com/in/bhavesh-garg-697a19132/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
                       <li><a href="https://www.facebook.com/bhavesh.garg.509" target="_blank"><i class="ion-social-facebook"></i></a></li>
@@ -275,7 +291,7 @@ window.addEventListener("scroll", addClassVisible);
             <div class="our-team">
                 <div class="team">
                     <div class="pic">
-                        <img src="img/9.jpg">
+                        <img src="img/9.jpg" alt="Finace head Ecell IIT (ISM) Dhanbad">
                         <ul class="social-links">
                       <li><a href="https://www.linkedin.com/in/sanskar-jain-3129ab142/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
                       <li><a href="https://www.facebook.com/sanskar.jain.39" target="_blank"><i class="ion-social-facebook"></i></a></li>
@@ -295,10 +311,10 @@ window.addEventListener("scroll", addClassVisible);
       </div>
     </div>
   </section>
-  <!--/ Section Portfolio End /-->
+  <!--/ Team End /-->
   
 
-  <!--/ Section Testimonials Star /-->
+  <!--/Testimonials/-->
   <div class="testimonials paralax-mf bg-image" style="background-image: url(img/bg1.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
@@ -307,7 +323,7 @@ window.addEventListener("scroll", addClassVisible);
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/1.jpg" alt="" class="rounded-circle b-shadow-a">
+                <img src="img/1.jpg" alt="Mentor Ecell IIT (ISM) Dhanbad" class="rounded-circle b-shadow-a">
                 <span class="author">Aaquib Hussain</span>
                 <span >Co-Founder I&We</span>
               </div>
@@ -320,7 +336,7 @@ window.addEventListener("scroll", addClassVisible);
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <img src="img/2.jpg" alt="Mentor Ecell IIT (ISM) Dhanbad" class="rounded-circle b-shadow-a">
                 <span class="author">Suraj Juneja</span>
                 <span>CEO Level Nine Media Pvt. Ltd.</span>
               </div>
@@ -336,8 +352,9 @@ window.addEventListener("scroll", addClassVisible);
       </div>
     </div>-->
   </div>
+<!--Team End-->
 
-  <!--/ Section Blog Star /-->
+  <!--/ Blogs /-->
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
@@ -358,7 +375,7 @@ window.addEventListener("scroll", addClassVisible);
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="https://yourstory.com/2013/10/flick2know-story/?fbclid=IwAR1aociGIteM3zvGsTjk6AVYe-x4Av8QlYVlW41uuaA67HvpRowZcNf7SgI" target="_blank"><img src="img/post-3.jpg" alt="" class="img-fluid"></a>
+              <a href="https://yourstory.com/2013/10/flick2know-story/?fbclid=IwAR1aociGIteM3zvGsTjk6AVYe-x4Av8QlYVlW41uuaA67HvpRowZcNf7SgI" target="_blank"><img src="img/post-3.jpg" alt="Blogs Ecell IIT (ISM) Dhanbad" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -377,7 +394,7 @@ window.addEventListener("scroll", addClassVisible);
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="https://yourstory.com/2018/10/behind-26-months-8-years-grit-hardwork-got-us-unicorn-status-sujeet-kumar-co-founder-udaan/" target="_blank"><img src="img/post-2.jpg" alt="" class="img-fluid"></a>
+              <a href="https://yourstory.com/2018/10/behind-26-months-8-years-grit-hardwork-got-us-unicorn-status-sujeet-kumar-co-founder-udaan/" target="_blank"><img src="img/post-2.jpg" alt="Blogs Ecell IIT (ISM) Dhanbad" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -396,7 +413,7 @@ window.addEventListener("scroll", addClassVisible);
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="https://www.indiatoday.in/trending-news/story/delhi-air-too-bad-for-you-now-you-can-buy-fresh-air-in-a-bottle-1400390-2018-12-01" target="_blank"><img src="img/post-1.jpg" alt="" class="img-fluid"></a>
+              <a href="https://www.indiatoday.in/trending-news/story/delhi-air-too-bad-for-you-now-you-can-buy-fresh-air-in-a-bottle-1400390-2018-12-01" target="_blank"><img src="img/post-1.jpg" alt="Blogs Ecell IIT (ISM) Dhanbad" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -416,9 +433,9 @@ window.addEventListener("scroll", addClassVisible);
       </div>
     </div>
   </section>
-  <!--/ Section Blog End /-->
+  <!--/Blogs End /-->
 
-  <!--/ Section Contact-Footer Star /-->
+  <!--/Contact-Footer Star /-->
   <section  id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/002.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
@@ -435,7 +452,7 @@ window.addEventListener("scroll", addClassVisible);
                   <dir class="container">
               <div class="row justify-content-center">
                 <div class="col-md-6">
-                  <a class="js-scroll" href="#home"><img src="img/logo2.png" class="img-fluid"></a>
+                  <a class="js-scroll" href="#home"><img src="img/logo2.png" class="img-fluid" alt="Logo Ecell IIT (ISM) Dhanbad"></a>
                   <div class="more-info">
                     <p><br>
                     <ul class="list-ico">
@@ -448,7 +465,7 @@ window.addEventListener("scroll", addClassVisible);
                     <ul>
                       <li><a href="https://www.linkedin.com/company/entrepreneurship-cell-iit-ism-dhanbad/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                       <li><a href="https://www.facebook.com/ecelliitism/" target="_blank"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                      <li><a href="https://www.instagram.com/ecell_iitism_dhanbad/" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>                      
+                      <li><a href="https://www.instagram.com/ecell_iitism/" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>                      
                     </ul>
                   </div>
                   <div>
@@ -473,7 +490,7 @@ window.addEventListener("scroll", addClassVisible);
     </div>
 
   </section>
-  <!--/ Section Contact-footer End /-->
+  <!--/ Contact-footer End /-->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
