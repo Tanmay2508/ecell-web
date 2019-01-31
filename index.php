@@ -364,7 +364,7 @@ window.addEventListener("scroll", addClassVisible);
               Blogs
             </h3>
             <p class="subtitle-a">
-              Writings that are needed to be appriciated!
+              Writings that are needed to be appreciated!
             </p>
             <div class="line-mf"></div>
           </div>
