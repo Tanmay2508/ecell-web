@@ -7,7 +7,7 @@
   <meta content="E-cell IIT (ISM) Dhanbad" name="keywords">
   <meta content="E-cell IIT (ISM) Dhanbad" name="description">
   <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
-  <link href="img/logo1.jpg" rel="icon">
+  <link href="img/logo1.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -480,8 +480,8 @@ window.addEventListener("scroll", addClassVisible);
                    <p class="lead" style="text-align:center;"> We’d love for you to join us!</p>
                   </div>
                 </div>
-
       <p style="text-align: center;"><br><i>Website by Team E-Cell IIT(ISM) Dhanbad</i></p>
+      <p style="text-align: center;"><i>Photo credits: <a href="https://www.facebook.com/fotofreaks.iitism/" target="_blank">FotoFreaks - The Photography Club Of IIT - ISM</a></i></p>
               </div>
             </div>
           </div>
