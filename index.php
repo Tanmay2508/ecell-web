@@ -360,8 +360,8 @@ window.addEventListener("scroll", addClassVisible);
       <div class="row">
         <div class="col-sm-12">
           <div class="title-box text-center">
-            <h3 class="title-a">
-              Blogs
+            <h3 class="title-a"><a href="blog/blogs.php">
+                                   Blogs</a>
             </h3>
             <p class="subtitle-a">
               Writings that are needed to be appreciated!
